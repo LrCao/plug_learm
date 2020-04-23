@@ -1,0 +1,22 @@
+{
+  "name": "plug_learm",
+  "version": "1.0.0",
+  "description": "开发一个插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LrCao/plug_learm.git"
+  },
+  "keywords": [
+    "plugLearm"
+  ],
+  "author": "LrCao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LrCao/plug_learm/issues"
+  },
+  "homepage": "https://github.com/LrCao/plug_learm#readme"
+}
